@@ -1,0 +1,13 @@
+node_modules
+fonts
+.next
+.vercel
+.gitignore
+.npmrc
+.eslintrc.json
+.babelrc
+yarn.lock
+*.md
+yarn-error.log
+env.sh
+.env.local
